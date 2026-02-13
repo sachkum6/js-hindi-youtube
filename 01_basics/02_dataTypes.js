@@ -12,7 +12,7 @@
 // null - it's a datatype, and a standalone value
 //undefined - value not defined. varibale declared but value not given/assigned.
 //symbol - to find uniqueness
-ore))
+//ore))
 
 console.log(typeof null); // object
 
